@@ -1,7 +1,7 @@
 dbt_learn_repos:
   outputs:
     dev:
-      account: MGMPPST-JSB72512
+      account: PWYYCNX-IOB43524
       database: dbtlearn
       password: Sandeshpranjali@178
       role: ACCOUNTADMIN
