@@ -1,0 +1,13 @@
+dbt_learn_repos:
+  outputs:
+    dev:
+      account: MGMPPST-JSB72512
+      database: dbtlearn
+      password: Sandeshpranjali@178
+      role: ACCOUNTADMIN
+      schema: public
+      threads: 4
+      type: snowflake
+      user: PRANJALINAGARKAR
+      warehouse: COMPUTE_WH
+  target: dev
