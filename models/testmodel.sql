@@ -1,1 +1,0 @@
-select 'Hello from vs code' as message
